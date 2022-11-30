@@ -27,14 +27,14 @@ public class objeto7 {
         perro1.setAltura(20);
 
         perro2.setPelo("Liso");
-        perro2.setColor("Verde");
-        perro2.setChip(8989999);
+        perro2.setColor("Marron");
+        perro2.setChip(26);
         perro2.setPeso(1);
         perro2.setAltura(1);
 
-        perro3.setPelo("Liso");
-        perro3.setColor("Verde");
-        perro3.setChip(8989999);
+        perro3.setPelo("Rizo");
+        perro3.setColor("Negro");
+        perro3.setChip(27);
         perro3.setPeso(34);
         perro3.setAltura(35);
 
